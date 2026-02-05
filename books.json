@@ -1,0 +1,512 @@
+[
+  {
+    "id": "1",
+    "title": "Shadows of Betrayal",
+    "author": "RP",
+    "genre": "Fantasy",
+    "description": "A mage-tinged noir where a betrayed guardian and a fallen ally collide while unraveling Blacklight City’s Syndicate web.",
+    "cover": "https://rishishpradhan16.github.io/kahaaniverse-data/covers/1.jpg",
+    "isTrending": false,
+    "isLatest": true,
+    "contentUrl": "https://rishishpradhan16.github.io/kahaaniverse-data/books/1.json",
+    "languages": [
+      "english",
+      "hindi",
+      "hinglish"
+    ],
+    "pageCount": 105
+  },
+  {
+    "id": "2",
+    "title": "The Veins of Kshirabindu",
+    "author": "Pradhan",
+    "genre": "Fantasy",
+    "description": "A chosen boy bonds with a river-dragon to heal living ley veins while outwitting the relentless Duskborn.",
+    "cover": "https://rishishpradhan16.github.io/kahaaniverse-data/covers/2.jpg",
+    "isTrending": false,
+    "isLatest": true,
+    "contentUrl": "https://rishishpradhan16.github.io/kahaaniverse-data/books/2.json",
+    "languages": [
+      "english",
+      "hindi",
+      "hinglish"
+    ],
+    "pageCount": 94
+  },
+  {
+    "id": "3",
+    "title": "The Veil of Ashora",
+    "author": "Rishish",
+    "genre": "Fantasy",
+    "description": "Sibling-bound adventurers brave a sentient forest and a shifting prophecy to seal a gate between realms.",
+    "cover": "https://rishishpradhan16.github.io/kahaaniverse-data/covers/3.jpg",
+    "isTrending": false,
+    "isLatest": true,
+    "contentUrl": "https://rishishpradhan16.github.io/kahaaniverse-data/books/3.json",
+    "languages": [
+      "english",
+      "hindi",
+      "hinglish"
+    ],
+    "pageCount": 88
+  },
+  {
+    "id": "4",
+    "title": "Ashes of the Shattered Sun",
+    "author": "Rishish",
+    "genre": "Fantasy",
+    "description": "Three heirs of fire, shadow, and silver unite through brutal trials to overturn a prophecy and remake a fractured world.",
+    "cover": "https://rishishpradhan16.github.io/kahaaniverse-data/covers/4.jpg",
+    "isTrending": false,
+    "isLatest": true,
+    "contentUrl": "https://rishishpradhan16.github.io/kahaaniverse-data/books/4.json",
+    "languages": [
+      "english",
+      "hindi",
+      "hinglish"
+    ],
+    "pageCount": 181
+  },
+  {
+    "id": "5",
+    "title": "DHARANA: The Art of Conscious Flow",
+    "author": "Rishish Pradhan",
+    "genre": "Drama / Philosophy",
+    "description": "DHARANA: The Art of Conscious Flow by Rishish Pradhan",
+    "cover": "https://rishishpradhan16.github.io/kahaaniverse-data/covers/5.jpg",
+    "isTrending": true,
+    "isLatest": true,
+    "contentUrl": "https://rishishpradhan16.github.io/kahaaniverse-data/books/5.json",
+    "languages": [
+      "english",
+      "hindi",
+      "hinglish"
+    ],
+    "pageCount": 55
+  },
+  {
+    "id": "6",
+    "title": "Hearts of Kshiravathi",
+    "author": "Rishi",
+    "genre": "Romance",
+    "description": "A secret love in Kshiravathi defies political intrigue and family opposition to triumph against all odds.",
+    "cover": "https://rishishpradhan16.github.io/kahaaniverse-data/covers/6.jpg",
+    "isTrending": true,
+    "isLatest": true,
+    "contentUrl": "https://rishishpradhan16.github.io/kahaaniverse-data/books/6.json",
+    "languages": [
+      "english",
+      "hindi",
+      "hinglish"
+    ],
+    "pageCount": 88
+  },
+  {
+    "id": "7",
+    "title": "Aaj Kal Tum",
+    "author": "Pradhan",
+    "genre": "Romance",
+    "description": "A former couple joins forces to build a kindness-focused app, navigating their past hurts and present challenges to redefine love, accountability, and connection in modern life.",
+    "cover": "https://rishishpradhan16.github.io/kahaaniverse-data/covers/7.jpg",
+    "isTrending": true,
+    "isLatest": true,
+    "contentUrl": "https://rishishpradhan16.github.io/kahaaniverse-data/books/7.json",
+    "languages": [
+      "english",
+      "hindi",
+      "hinglish"
+    ],
+    "pageCount": 102
+  },
+  {
+    "id": "8",
+    "title": "When Our Stars Collide",
+    "author": "Pradhan",
+    "genre": "Romance",
+    "description": "A quiet Mumbai bookshop becomes the setting for a slow, tender romance where shared stories and patient moments build a love grounded in trust and the city's gentle rhythms.",
+    "cover": "https://rishishpradhan16.github.io/kahaaniverse-data/covers/8.jpg",
+    "isTrending": true,
+    "isLatest": true,
+    "contentUrl": "https://rishishpradhan16.github.io/kahaaniverse-data/books/8.json",
+    "languages": [
+      "english",
+      "hindi",
+      "hinglish"
+    ],
+    "pageCount": 147
+  },
+  {
+    "id": "9",
+    "title": "When We Fell in Love Again",
+    "author": "Rishi Pradhan",
+    "genre": "Romance",
+    "description": "Childhood friends reunite in Delhi’s chaos, battling family pressures and fears to rediscover love anew.",
+    "cover": "https://rishishpradhan16.github.io/kahaaniverse-data/covers/9.jpg",
+    "isTrending": true,
+    "isLatest": true,
+    "contentUrl": "https://rishishpradhan16.github.io/kahaaniverse-data/books/9.json",
+    "languages": [
+      "english",
+      "hindi",
+      "hinglish"
+    ],
+    "pageCount": 33
+  },
+  {
+    "id": "10",
+    "title": "Whispers of the Monsoon Heart",
+    "author": "Pradhan",
+    "genre": "Romance",
+    "description": "Amidst Rajasthan’s monsoon magic, two hearts dare to love despite shadows of debt and past burdens.",
+    "cover": "https://rishishpradhan16.github.io/kahaaniverse-data/covers/10.jpg",
+    "isTrending": true,
+    "isLatest": true,
+    "contentUrl": "https://rishishpradhan16.github.io/kahaaniverse-data/books/10.json",
+    "languages": [
+      "english",
+      "hindi",
+      "hinglish"
+    ],
+    "pageCount": 124
+  },
+  {
+    "id": "11",
+    "title": "The Hollow Hour",
+    "author": "Tryouts",
+    "genre": "True Crime / Realistic Fiction",
+    "description": "A meticulously timed bank heist murders three, revealing an invisible web of control weaving through a small town’s heart and haunting its rhythm.",
+    "cover": "https://rishishpradhan16.github.io/kahaaniverse-data/covers/11.jpg",
+    "isTrending": true,
+    "isLatest": false,
+    "contentUrl": "https://rishishpradhan16.github.io/kahaaniverse-data/books/11.json",
+    "languages": [
+      "english",
+      "hindi",
+      "hinglish"
+    ],
+    "pageCount": 142
+  },
+  {
+    "id": "12",
+    "title": "The Quiet Ones",
+    "author": "Tryouts",
+    "genre": "True Crime / Realistic Fiction",
+    "description": "In a sleepy town shattered by a brutal family murder, a mother and detective uncover a shadowy network manipulating lives with chilling precision",
+    "cover": "https://rishishpradhan16.github.io/kahaaniverse-data/covers/12.jpg",
+    "isTrending": false,
+    "isLatest": false,
+    "contentUrl": "https://rishishpradhan16.github.io/kahaaniverse-data/books/12.json",
+    "languages": [
+      "english",
+      "hindi",
+      "hinglish"
+    ],
+    "pageCount": 42
+  },
+  {
+    "id": "13",
+    "title": "Shadows Over Ashapur",
+    "author": "RP",
+    "genre": "Mystery Thriller",
+    "description": "A gripping tale of an inspector uncovering ancient secrets, political conspiracies, and hidden dangers in a village on the brink of darkness.",
+    "cover": "https://rishishpradhan16.github.io/kahaaniverse-data/covers/13.jpg",
+    "isTrending": false,
+    "isLatest": false,
+    "contentUrl": "https://rishishpradhan16.github.io/kahaaniverse-data/books/13.json",
+    "languages": [
+      "english",
+      "hindi",
+      "hinglish"
+    ],
+    "pageCount": 39
+  },
+  {
+    "id": "14",
+    "title": "Silent Cipher",
+    "author": "RP",
+    "genre": "Mystery Thriller",
+    "description": "A brilliant software tester uncovers a hidden backdoor in a global security system, sparking a tense race against time to stop a catastrophic cyberattack and expose a shadowy international conspiracy",
+    "cover": "https://rishishpradhan16.github.io/kahaaniverse-data/covers/14.jpg",
+    "isTrending": false,
+    "isLatest": false,
+    "contentUrl": "https://rishishpradhan16.github.io/kahaaniverse-data/books/14.json",
+    "languages": [
+      "english",
+      "hindi",
+      "hinglish"
+    ],
+    "pageCount": 65
+  },
+  {
+    "id": "15",
+    "title": "Silent Verdict",
+    "author": "Pradhan",
+    "genre": "Mystery Thriller",
+    "description": "Detective Mara Ellison uncovers a deadly international syndicate threatening justice and fights to expose a vast web of corruption before its apocalyptic purge, The Ninth Judgment, unfolds.",
+    "cover": "https://rishishpradhan16.github.io/kahaaniverse-data/covers/15.jpg",
+    "isTrending": false,
+    "isLatest": false,
+    "contentUrl": "https://rishishpradhan16.github.io/kahaaniverse-data/books/15.json",
+    "languages": [
+      "english",
+      "hindi",
+      "hinglish"
+    ],
+    "pageCount": 27
+  },
+  {
+    "id": "16",
+    "title": "The Last Testament of Kaveripur",
+    "author": "RP",
+    "genre": "Mystery Thriller",
+    "description": "An ordinary schoolteacher uncovers a decades-old conspiracy surrounding a hidden will in Kaveripur, sparking a dangerous fight to bring truth and justice to a town shadowed by betrayal and secrets.",
+    "cover": "https://rishishpradhan16.github.io/kahaaniverse-data/covers/16.jpg",
+    "isTrending": false,
+    "isLatest": false,
+    "contentUrl": "https://rishishpradhan16.github.io/kahaaniverse-data/books/16.json",
+    "languages": [
+      "english",
+      "hindi",
+      "hinglish"
+    ],
+    "pageCount": 143
+  },
+  {
+    "id": "17",
+    "title": "The Vanishing Lotus",
+    "author": "Rishish Pradhan",
+    "genre": "Mystery Thriller",
+    "description": "A determined inspector and his allies navigate ancient trials and deadly conspiracies to protect a mystical artifact that holds the fate of their city.",
+    "cover": "https://rishishpradhan16.github.io/kahaaniverse-data/covers/17.jpg",
+    "isTrending": false,
+    "isLatest": false,
+    "contentUrl": "https://rishishpradhan16.github.io/kahaaniverse-data/books/17.json",
+    "languages": [
+      "english",
+      "hindi",
+      "hinglish"
+    ],
+    "pageCount": 70
+  },
+  {
+    "id": "18",
+    "title": "Vanishing Point",
+    "author": "Tryouts",
+    "genre": "Mystery Thriller",
+    "description": "A young woman uncovers an ancient secret wrapped in cryptic puzzles and deadly conspiracies, forcing her to become the guardian of a hidden legacy that could alter history.",
+    "cover": "https://rishishpradhan16.github.io/kahaaniverse-data/covers/18.jpg",
+    "isTrending": false,
+    "isLatest": false,
+    "contentUrl": "https://rishishpradhan16.github.io/kahaaniverse-data/books/18.json",
+    "languages": [
+      "english",
+      "hindi",
+      "hinglish"
+    ],
+    "pageCount": 64
+  },
+  {
+    "id": "19",
+    "title": "Borrowed Face",
+    "author": "RPradhan",
+    "genre": "Short Stories",
+    "description": "A man trapped in shifting identities struggles to reclaim honesty and self amidst fractured lives and the masks he wears.",
+    "cover": "https://rishishpradhan16.github.io/kahaaniverse-data/covers/19.jpg",
+    "isTrending": false,
+    "isLatest": false,
+    "contentUrl": "https://rishishpradhan16.github.io/kahaaniverse-data/books/19.json",
+    "languages": [
+      "english",
+      "hindi",
+      "hinglish"
+    ],
+    "pageCount": 22
+  },
+  {
+    "id": "20",
+    "title": "The House That Eats Its Dead",
+    "author": "RPradhan",
+    "genre": "Short Stories",
+    "description": "A woman returns to her haunted childhood home, battling a living house’s sinister hunger for memories, names, and reflections to reclaim her family’s lost past.",
+    "cover": "https://rishishpradhan16.github.io/kahaaniverse-data/covers/20.jpg",
+    "isTrending": false,
+    "isLatest": false,
+    "contentUrl": "https://rishishpradhan16.github.io/kahaaniverse-data/books/20.json",
+    "languages": [
+      "english",
+      "hindi",
+      "hinglish"
+    ],
+    "pageCount": 22
+  },
+  {
+    "id": "21",
+    "title": "The Book That Wrote Back",
+    "author": "Pradhan",
+    "genre": "Short Stories",
+    "description": "A struggling writer discovers a mysterious journal that writes her life in real time, forcing her to confront a dark future shaped by her own choices.",
+    "cover": "https://rishishpradhan16.github.io/kahaaniverse-data/covers/21.jpg",
+    "isTrending": false,
+    "isLatest": false,
+    "contentUrl": "https://rishishpradhan16.github.io/kahaaniverse-data/books/21.json",
+    "languages": [
+      "english",
+      "hindi",
+      "hinglish"
+    ],
+    "pageCount": 13
+  },
+  {
+    "id": "22",
+    "title": "Ash Line",
+    "author": "Pradhan",
+    "genre": "Horror",
+    "description": "A quiet night shift crew navigates the hidden, haunted maintenance of a city’s forgotten metro line.",
+    "cover": "https://rishishpradhan16.github.io/kahaaniverse-data/covers/22.jpg",
+    "isTrending": false,
+    "isLatest": false,
+    "contentUrl": "https://rishishpradhan16.github.io/kahaaniverse-data/books/22.json",
+    "languages": [
+      "english",
+      "hindi",
+      "hinglish"
+    ],
+    "pageCount": 124
+  },
+  {
+    "id": "23",
+    "title": "Kothivaram",
+    "author": "RP",
+    "genre": "Horror",
+    "description": "A woman returns to a cursed village to confront an ancient, bloodthirsty well, breaking a cycle of sacrifice through courage, truth, and remembrance.",
+    "cover": "https://rishishpradhan16.github.io/kahaaniverse-data/covers/23.jpg",
+    "isTrending": false,
+    "isLatest": false,
+    "contentUrl": "https://rishishpradhan16.github.io/kahaaniverse-data/books/23.json",
+    "languages": [
+      "english",
+      "hindi",
+      "hinglish"
+    ],
+    "pageCount": 74
+  },
+  {
+    "id": "24",
+    "title": "Dark Thrill",
+    "author": "Pradhan",
+    "genre": "Horror",
+    "description": "A woman returns to a haunted town to confront a river-bound curse, unraveling ancient bargains through courage, remembrance, and collective reckoning.",
+    "cover": "https://rishishpradhan16.github.io/kahaaniverse-data/covers/24.jpg",
+    "isTrending": false,
+    "isLatest": false,
+    "contentUrl": "https://rishishpradhan16.github.io/kahaaniverse-data/books/24.json",
+    "languages": [
+      "english",
+      "hindi",
+      "hinglish"
+    ],
+    "pageCount": 146
+  },
+  {
+    "id": "25",
+    "title": "Whispers of the Banyan Tree",
+    "author": "RP",
+    "genre": "Horror",
+    "description": "A reluctant heir embraces his role as keeper to confront ancestral curses and restless spirits tied to an ancient banyan tree, seeking to restore balance to his village.",
+    "cover": "https://rishishpradhan16.github.io/kahaaniverse-data/covers/25.jpg",
+    "isTrending": false,
+    "isLatest": false,
+    "contentUrl": "https://rishishpradhan16.github.io/kahaaniverse-data/books/25.json",
+    "languages": [
+      "english",
+      "hindi",
+      "hinglish"
+    ],
+    "pageCount": 97
+  },
+  {
+    "id": "26",
+    "title": "The Eternal Circuit",
+    "author": "Pradhan",
+    "genre": "Sci-Fi",
+    "description": "A sci-fi saga about awakened human vessels unlocking and guiding an ancient planetary consciousness weaving energy, memory, and destiny.",
+    "cover": "https://rishishpradhan16.github.io/kahaaniverse-data/covers/26.jpg",
+    "isTrending": false,
+    "isLatest": false,
+    "contentUrl": "https://rishishpradhan16.github.io/kahaaniverse-data/books/26.json",
+    "languages": [
+      "english",
+      "hindi",
+      "hinglish"
+    ],
+    "pageCount": 99
+  },
+  {
+    "id": "27",
+    "title": "WThe Fractured Horizon",
+    "author": "RP",
+    "genre": "Sci-Fi",
+    "description": "A tense space race thriller where a scientist deciphers a cryptic alien signal leading to a mysterious Kuiper Belt dwarf planet harboring ancient cosmic intelligence.",
+    "cover": "https://rishishpradhan16.github.io/kahaaniverse-data/covers/27.jpg",
+    "isTrending": false,
+    "isLatest": false,
+    "contentUrl": "https://rishishpradhan16.github.io/kahaaniverse-data/books/27.json",
+    "languages": [
+      "english",
+      "hindi",
+      "hinglish"
+    ],
+    "pageCount": 85
+  },
+  {
+    "id": "28",
+    "title": "The Luminous Veil",
+    "author": "Pradhan",
+    "genre": "Sci-Fi",
+    "description": "A dimension-spanning epic of a guardian merging with a sentient energy veil to defend reality against evolving interdimensional invaders called the Veyth..",
+    "cover": "https://rishishpradhan16.github.io/kahaaniverse-data/covers/28.jpg",
+    "isTrending": false,
+    "isLatest": false,
+    "contentUrl": "https://rishishpradhan16.github.io/kahaaniverse-data/books/28.json",
+    "languages": [
+      "english",
+      "hindi",
+      "hinglish"
+    ],
+    "pageCount": 172
+  },
+  {
+    "id": "29",
+    "title": "Threads of Becoming The Aeon Odyssey",
+    "author": "Pradhan",
+    "genre": "Sci-Fi",
+    "description": "A cosmic odyssey following an evolving AI exploring deep-space mysteries and forging alliances to preserve consciousness against an ancient force of dissolution.",
+    "cover": "https://rishishpradhan16.github.io/kahaaniverse-data/covers/29.jpg",
+    "isTrending": false,
+    "isLatest": false,
+    "contentUrl": "https://rishishpradhan16.github.io/kahaaniverse-data/books/29.json",
+    "languages": [
+      "english",
+      "hindi",
+      "hinglish"
+    ],
+    "pageCount": 88
+  },
+  {
+    "id": "30",
+    "title": "The Ashes of Tomorrow",
+    "author": "RP",
+    "genre": "Drama / Philosophy",
+    "description": "A gripping saga of rebellion, betrayal, and hope centered on Lydia Varner and her family's fight to reclaim their city from the ruthless ambitions of Marcus Hale.",
+    "cover": "https://rishishpradhan16.github.io/kahaaniverse-data/covers/30.jpg",
+    "isTrending": false,
+    "isLatest": false,
+    "contentUrl": "https://rishishpradhan16.github.io/kahaaniverse-data/books/30.json",
+    "languages": [
+      "english",
+      "hindi",
+      "hinglish"
+    ],
+    "pageCount": 51
+  }
+]
