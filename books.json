@@ -508,5 +508,22 @@
       "hinglish"
     ],
     "pageCount": 51
+  },
+  {
+    "id": "32",
+    "title": "The Glass House",
+    "author": "Rishish Pradhan",
+    "genre": "Mystery Thriller",
+    "description": "Survivors of a deadly ferry disaster gather at a remote glass house—where buried secrets and a hidden killer begin to emerge.",
+    "cover": "https://rishishpradhan16.github.io/kahaaniverse-data/covers/32.jpg",
+    "isTrending": true,
+    "isLatest": true,
+    "contentUrl": "https://rishishpradhan16.github.io/kahaaniverse-data/books/32.json",
+    "languages": [
+      "english",
+      "hindi",
+      "hinglish"
+    ],
+    "pageCount": 593
   }
 ]
